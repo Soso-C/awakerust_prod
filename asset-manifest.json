@@ -1,17 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe4fea95.css",
-    "main.js": "/static/js/main.40f78999.js",
+    "main.css": "/static/css/main.1cfb7fe4.css",
+    "main.js": "/static/js/main.940c2d5b.js",
     "static/media/AwakeRustBackground.webp": "/static/media/AwakeRustBackground.be0c1d7c4d7d4313215c.webp",
+    "static/media/Skinbox.jpg": "/static/media/Skinbox.386d688a40b46b8d4c88.jpg",
+    "static/media/Airdrop.jpg": "/static/media/Airdrop.6db73b8b93804e624a3e.jpg",
+    "static/media/Queue-skip.jpg": "/static/media/Queue-skip.a97f579944baf1653178.jpg",
+    "static/media/Master.jpg": "/static/media/Master.083b759c046493da185d.jpg",
+    "static/media/Pvp.jpg": "/static/media/Pvp.9d6d1554a34009c2ce02.jpg",
+    "static/media/Elite.jpg": "/static/media/Elite.7f76d0c986d3f4778923.jpg",
+    "static/media/hero.jpg": "/static/media/hero.c86aafc495f734c5f0e2.jpg",
+    "static/media/MVP.jpg": "/static/media/MVP.267876de6a361abcf9dd.jpg",
+    "static/media/Vip.jpg": "/static/media/Vip.7fe7f5b5a268bc84e401.jpg",
+    "static/media/Weekly_pass.jpg": "/static/media/Weekly_pass.fed05e02c07571867f0c.jpg",
+    "static/media/Pvp+.jpg": "/static/media/Pvp+.30b2c0073236f476eb3c.jpg",
     "static/media/logo1.svg": "/static/media/logo1.fc7ea5cfe6f05467fddaf0bc16b2052f.svg",
     "static/media/logo5.svg": "/static/media/logo5.f41ebed1d9e134d2f449974c1c7b9089.svg",
     "index.html": "/index.html",
     "static/media/menu.svg": "/static/media/menu.2810780877b0323916e1aa2d65d609e7.svg",
-    "main.fe4fea95.css.map": "/static/css/main.fe4fea95.css.map",
-    "main.40f78999.js.map": "/static/js/main.40f78999.js.map"
+    "main.1cfb7fe4.css.map": "/static/css/main.1cfb7fe4.css.map",
+    "main.940c2d5b.js.map": "/static/js/main.940c2d5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe4fea95.css",
-    "static/js/main.40f78999.js"
+    "static/css/main.1cfb7fe4.css",
+    "static/js/main.940c2d5b.js"
   ]
 }
