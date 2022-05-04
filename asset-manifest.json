@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ae198e4.css",
-    "main.js": "/static/js/main.4e786a68.js",
+    "main.css": "/static/css/main.e2a361e0.css",
+    "main.js": "/static/js/main.91d33200.js",
     "static/media/AwakeRustBackground.webp": "/static/media/AwakeRustBackground.be0c1d7c4d7d4313215c.webp",
     "static/media/Skinbox.jpg": "/static/media/Skinbox.386d688a40b46b8d4c88.jpg",
     "static/media/Airdrop.jpg": "/static/media/Airdrop.6db73b8b93804e624a3e.jpg",
@@ -18,11 +18,11 @@
     "static/media/logo5.svg": "/static/media/logo5.f41ebed1d9e134d2f449974c1c7b9089.svg",
     "index.html": "/index.html",
     "static/media/menu.svg": "/static/media/menu.2810780877b0323916e1aa2d65d609e7.svg",
-    "main.7ae198e4.css.map": "/static/css/main.7ae198e4.css.map",
-    "main.4e786a68.js.map": "/static/js/main.4e786a68.js.map"
+    "main.e2a361e0.css.map": "/static/css/main.e2a361e0.css.map",
+    "main.91d33200.js.map": "/static/js/main.91d33200.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ae198e4.css",
-    "static/js/main.4e786a68.js"
+    "static/css/main.e2a361e0.css",
+    "static/js/main.91d33200.js"
   ]
 }
